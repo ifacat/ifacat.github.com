@@ -2,7 +2,7 @@
 title: "中文技术文档排版指南"
 description: 
 date: 2023-09-03T11:45:21+08:00
-image:
+image: cover.jpg
 categories:
     - "指北"
 tags:
