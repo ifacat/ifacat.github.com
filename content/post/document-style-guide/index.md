@@ -1,6 +1,6 @@
 ---
 title: "中文技术文档排版指南"
-description: 
+description: 中文技术文档排版指南
 date: 2023-09-03T11:45:21+08:00
 image: cover.jpg
 categories:
